@@ -4,4 +4,5 @@ name = "finally"
 version = "0.0.1"
 authors = ["Richard Diamond <wichard@vitalitystudios.com>"]
 description = "Formally std::finally"
+repository = "https://github.com/DiamondLovesYou/finally-rs"
 license = "MIT/Apache-2.0"
